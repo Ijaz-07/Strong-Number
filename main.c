@@ -36,3 +36,10 @@ int main()
 
      return 0;
 }
+o/p:
+Enter number: 77
+77 is not a strong number.
+  
+Enter number: 145
+145 is a strong number.
+
